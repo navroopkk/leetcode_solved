@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/navroopkk/leetcode_solved/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/navroopkk/leetcode_solved/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -13,4 +14,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/navroopkk/leetcode_solved/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/navroopkk/leetcode_solved/tree/master/0229-majority-element-ii) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/navroopkk/leetcode_solved/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/navroopkk/leetcode_solved/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
